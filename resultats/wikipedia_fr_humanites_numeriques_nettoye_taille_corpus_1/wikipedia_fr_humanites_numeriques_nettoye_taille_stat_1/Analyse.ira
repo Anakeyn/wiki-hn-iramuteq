@@ -1,0 +1,9 @@
+[stat]
+type = stat
+lem = 1
+pathout = /home/pierre/Documents/FouillesdeTextes/wiki-hn-iramuteq/resultats/wikipedia_fr_humanites_numeriques_nettoye_taille_corpus_1/wikipedia_fr_humanites_numeriques_nettoye_taille_stat_1
+corpus = 432be1cb-57ef-4a24-8e2d-e4003b4cbb6b
+uuid = 18851f91-7c4e-4151-93d8-db7d84b60793
+name = wikipedia_fr_humanites_numeriques_nettoye_taille_stat_1
+time = 0h 0m 0s
+ira = /home/pierre/Documents/FouillesdeTextes/wiki-hn-iramuteq/resultats/wikipedia_fr_humanites_numeriques_nettoye_taille_corpus_1/wikipedia_fr_humanites_numeriques_nettoye_taille_stat_1/Analyse.ira

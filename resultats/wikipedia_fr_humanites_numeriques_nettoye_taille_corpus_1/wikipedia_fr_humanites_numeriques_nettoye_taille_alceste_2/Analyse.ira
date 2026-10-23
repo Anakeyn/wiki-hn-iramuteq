@@ -1,0 +1,24 @@
+[alceste]
+type = alceste
+lem = 1
+mincl = 0
+nbforme_uce = 0
+max_actives = 20000
+tailleuc1 = 12
+nbcl = 4
+tailleuc2 = 14
+classif_mode = 1
+minforme = 2
+expressions = 1
+nbcl_p1 = 12
+svdmethod = irlba
+mode.patate = 0
+corpus = 432be1cb-57ef-4a24-8e2d-e4003b4cbb6b
+pathout = /home/pierre/Documents/FouillesdeTextes/wiki-hn-iramuteq/resultats/wikipedia_fr_humanites_numeriques_nettoye_taille_corpus_1/wikipedia_fr_humanites_numeriques_nettoye_taille_alceste_2
+uuid = 49e570a2-1f7a-4c2d-ba2c-28d189294395
+name = wikipedia_fr_humanites_numeriques_nettoye_taille_alceste_2
+eff_min_forme = 3
+nbactives = 1604
+clnb = 8
+time = 0h 0m 25s
+ira = /home/pierre/Documents/FouillesdeTextes/wiki-hn-iramuteq/resultats/wikipedia_fr_humanites_numeriques_nettoye_taille_corpus_1/wikipedia_fr_humanites_numeriques_nettoye_taille_alceste_2/Analyse.ira

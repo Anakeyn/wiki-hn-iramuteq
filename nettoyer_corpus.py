@@ -120,6 +120,43 @@ sortie.write_text("\n".join(gardees) + "\n", encoding="utf-8")
 journal = sortie.with_name(sortie.stem + "_lignes_supprimees.txt")
 journal.write_text("\n".join(supprimees) + "\n", encoding="utf-8")
 
+# %% 6. Écrire les métadonnées du corpus nettoyé
+# decrire_corpus.py lit la longueur des articles dans la colonne « mots »
+# du fichier <corpus>_metadonnees.csv. On recompte donc les mots de chaque
+# article dans le texte nettoyé, pour que les terciles portent sur le texte
+# réellement analysé. Le comptage (mots séparés par des espaces) est le même
+# pour tous les articles, ce qui garde les longueurs comparables entre elles.
+import csv
+
+meta_entree = entree.with_name(entree.stem + "_metadonnees.csv")
+meta_sortie = sortie.with_name(sortie.stem + "_metadonnees.csv")
+
+mots_par_id, ident = {}, None
+for ligne in gardees:
+    if ligne.startswith("****"):
+        ident = next((v[len("*id_"):] for v in ligne.split()
+                      if v.startswith("*id_")), None)
+        mots_par_id[ident] = 0
+    elif ident is not None:
+        mots_par_id[ident] += len(ligne.split())
+
+if meta_entree.exists():
+    with meta_entree.open(encoding="utf-8", newline="") as f:
+        lecteur = csv.DictReader(f)
+        champs = lecteur.fieldnames
+        lignes_meta = list(lecteur)
+    for m in lignes_meta:
+        if m["id"] in mots_par_id:
+            m["mots"] = mots_par_id[m["id"]]
+    with meta_sortie.open("w", encoding="utf-8", newline="") as f:
+        ecrivain = csv.DictWriter(f, fieldnames=champs)
+        ecrivain.writeheader()
+        ecrivain.writerows(lignes_meta)
+    total = sum(mots_par_id.values())
+    print(f"Métadonnées recalculées ({total} mots) : {meta_sortie}")
+else:
+    print(f"Attention : {meta_entree} introuvable, métadonnées non écrites.")
+
 print(f"{len(supprimees)} lignes bibliographiques supprimées :")
 for art, n in sorted(par_article.items(), key=lambda x: -x[1]):
     print(f"  {art} : {n}")
