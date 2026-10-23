@@ -50,16 +50,47 @@ Sur le corpus des humanités numériques, il montre que **7 articles sur 45 font
 
 ### Prérequis
 
-Il faut Python 3.8 ou plus récent, avec les bibliothèques `pandas` et `matplotlib` :
+Il faut Python 3.8 ou plus récent et **deux bibliothèques à installer** : `pandas` (tableaux de données) et `matplotlib` (graphiques). Contrairement à wiki2iramuteq, qui n'utilise que la bibliothèque standard de Python, ce script ne fonctionne pas sans elles.
+
+Téléchargez le dépôt (**Code → Download ZIP**), décompressez-le, puis ouvrez un terminal dans ce dossier.
+
+**Windows**
+
+Installez Python depuis [python.org](https://www.python.org/downloads/) en cochant *Add Python to PATH*, puis :
 
 ```bash
 pip install -r requirements.txt
 ```
 
-- **Linux, macOS** : les commandes s'utilisent telles quelles.
-- **Windows** : installez Python depuis [python.org](https://www.python.org/downloads/) en cochant *Add Python to PATH*. Dans les commandes, remplacez `python3` par `python`.
+Dans les commandes de ce README, remplacez ensuite `python3` par `python`.
 
-Téléchargez le dépôt (**Code → Download ZIP**), décompressez-le, puis ouvrez un terminal dans ce dossier.
+**macOS**
+
+```bash
+pip3 install -r requirements.txt
+```
+
+**Linux**
+
+Sur les distributions récentes (Ubuntu 23.04 et suivantes, Debian 12 et suivantes…), `pip install` est refusé hors environnement virtuel, avec l'erreur `externally-managed-environment`. Deux solutions :
+
+- **Avec le gestionnaire de paquets**, le plus simple. Sous Ubuntu ou Debian :
+  ```bash
+  sudo apt install python3-pandas python3-matplotlib
+  ```
+- **Avec un environnement virtuel**, qui isole les bibliothèques dans le dossier du projet :
+  ```bash
+  python3 -m venv .venv
+  source .venv/bin/activate
+  pip install -r requirements.txt
+  ```
+  Il faut relancer `source .venv/bin/activate` à chaque nouvelle session de terminal.
+
+Pour vérifier que tout est installé :
+
+```bash
+python3 -c "import pandas, matplotlib; print('OK')"
+```
 
 ### Sur le corpus des humanités numériques
 
