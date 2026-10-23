@@ -1,0 +1,40 @@
+Clarisse Bardiot, Esther Dehoux, Émilien Ruiz (Dir.). La fabrique numérique des corpus en sciences humaines et sociales. Presses Universitaires du Septentrion, 2022, Humanités numériques et Science ouverte, (ISBN 978-2-757-43611-0).
+Clarisse Bardiot. Performing Arts and Digital Humanities. From Traces to Data. Wiley-ISTE, 2021, (ISBN 978-1-786-30705-7).
+Clarisse Bardiot. Arts de la scène et technologies numériques. Martial Poirson. Manuel des études théâtrales. Les arts de la scène et du spectacle, Armand Collin, 2024, (ISBN 978-2-200-61755-4).
+Clarisse Bardiot. Les artistes et leurs équipes, premiers conservateurs des œuvres scéniques. Sophie Lucet; Bénedicte Boisson; Marion Denizot. Fabriques, expériences et archives du spectacle vivant, Presses universitaires de Rennes, pp.465-476, 2021, (ISBN 978-2-753-58101-2).
+Clarisse Bardiot. The Diagrams of 9 Evenings. 9 Evenings Reconsidered : Art, Theatre, and Engineering, 1966, MIT List Visual Arts Center, pp.45-54, 2006, (ISBN 978-0-938437-69-7).
+Le Poids des mots. Le discours de gauche et de droite dans l'entre-deux-guerres. Maurice Thorez, Léon Blum, Pierre-Étienne Flandin et André Tardieu (1928-1939) (thèse de doctorat), Paris, Honoré Champion, 2000, 800 p. (ISBN 2745302671, présentation en ligne).
+Paroles de président. Jacques Chirac (1995-2003) et le discours présidentiel sous la Ve République, Paris, Honoré Champion, 2004, 292 p. (ISBN 2745311344, présentation en ligne).
+Vers une herméneutique matérielle numérique. Corpus textuels, Logométrie et Langage politique (thèse d’habilitation), Université de Nice, 2010, 565 p. (présentation en ligne).
+Nicolas Sarkozy : Mesure et démesure du discours (2007-2012), Paris, Presses de Sciences Po, 2012, 368 p. (ISBN 2724612434, présentation en ligne).
+Le Discours présidentiel sous la Ve République. Chirac, Mitterrand, Giscard, Pompidou, de Gaulle (édition remaniée de Paroles de président), Paris, Presses de Sciences Po, 2012, 384 p. (ISBN 2724612442).
+Macron ou le mystère du verbe : Ses discours décryptés par la machine, La tour d'Aigues, Les éditions de l'Aube, 2021, 364 p. (ISBN 9782815937467, présentation en ligne).
+avec Stella Iezzi and Michel-Angelo Misuraca, Text Analytics : Advances and Challenges, Berlin, Springer, 2020 (ISBN 978-3030526795)
+Signs Taken for Wonders : Essays in the Sociology of Literary Forms (trad. Susan Fischer, David Forgacs et David Miller), Londres, NLB: Verso Editions, 1983, 273 p. (ISBN 0-86091-064-4)
+Le roman de formation (trad. Camille Bloomfield et Pierre Musitelli), Paris, CNRS Éditions, coll. « Culture et société », 2019, 334 p. (ISBN 9782271129284)
+(it) Segni e stili del moderno, Turin, Einaudi, 1987, 261 p. (ISBN 88-06-59398-6)
+The Way of the World : The Bildungsroman in European Culture, Londres, Verso, 1987, 256 p. (ISBN 0-86091-159-4)
+Opere mondo : saggio sulla forma epica dal Faust a Cent'anni di solitudin, Turin, Einaudi, 1994, 243 p. (ISBN 88-06-13545-7)
+(en) The Modern Epic : The World-System from Goethe to García Márquez (trad. de l'italien), London, New York, Verso, 1996, 256 p. (ISBN 1-85984-934-2, lire en ligne)
+(it) Atlante del romanzo europeo, 1800-1900, Turin, G. Einaudi, 1997, 208 p. (ISBN 88-06-14132-5)
+Atlas du roman européen, 1800-1900, Paris, Seuil, 2000 (ISBN 978-2-02-038117-8)
+(en) Atlas of the European novel, 1800-1900, London, New York, Verso, 1998, 206 p. (ISBN 1-85984-883-4)
+Il romanzo : Le forme, Turin, G. Einaudi, 2003, 982 p. (ISBN 88-06-15290-4)
+(en) Graphs, Maps, Trees : Abstract Models for a Literary History, London, New York, Verso, 2005, 119 p. (ISBN 1-84467-026-0, lire en ligne)
+Graphes, cartes et arbres. Modèles abstraits pour une autre histoire de la littérature, Paris, Amsterdam, 2008 (ISBN 9782350960463)
+(en) The Novel : History, geography and culture. 1 (trad. de l'italien), Princeton, N.J., Princeton University Press, 2006, 916 p. (ISBN 0-691-04947-5)
+(en) Distant Reading, Londres, Verso, 2013, 254 p. (ISBN 978-1-78168-084-1, lire en ligne)
+(en) The Bourgeois : Between History and Literature, Brooklyn, N.Y., Verso, 2013, 224 p. (ISBN 978-1-78168-085-8, lire en ligne)
+Le Vocabulaire de Jean Giraudoux, structure et évolution : Statistique et informatique appliquées à l’étude des textes à partir du Trésor de la langue française, Genève, éditions Slatkine, 1978, 688 p. (Pas d’ISBN, ouvrage issu d’une thèse de doctorat d’État soutenue à Nice le 6 janvier 1976, ouvrage distingué par le CNRS qui a accordé à l'auteur la médaille de bronze de l’année 1976 au titre de la 36e section, Études linguistiques et littéraires françaises.)
+en 1980 Index de l’Émile, Vol.1, XLIII-LIII, 583 p. (ISBN 2051000743) (ISBN 978-2051000741).
+en 1980 Concordance de l’Émile ou De l’éducation, vol. 2, XV, 720 p. (ISBN 2051004765) (ISBN 978-2051004763).
+en 1983 Index des Lettres écrites de la montagne, 344 p. (ISBN 2051004765) (ISBN 978-2051004763).
+en 1986 Index des Considérations sur le gouvernement de Pologne et Index-concordance du Projet de constitution pour la Corse, 288 p. (en collaboration avec L. Launay), (ISBN 2051006644) (ISBN 978-2051006644).
+en 1986 Index de l’œuvre théâtrale et lyrique de J.-J. Rousseau (pour Le Devin du village, p. 375–390) (en collaboration avec A. et G. Fauconnier), (ISBN 2051007373) (ISBN 9782051007375).
+Le Vocabulaire français de 1789 à nos jours, 3 tomes, 1824 p., Genève-Paris, Slatkine-Champion, 1981 (préface de P. Imbs, membre de l’Institut) (ISBN 2-05-100361-0).
+Le Vocabulaire de Proust, avec l’Index complet et synoptique de À la recherche du temps perdu, 3 vol., 1918 p., Genève-Paris, Slatkine-Champion, 1983 (préface de J.Y. Tadié). (ISBN 2051004749) (ISBN 9782051004749).
+Le Vocabulaire de Zola, suivi de l’Index complet et synoptique des Rougon-Macquart, 3 tomes, 472 p., 646 p., 357 p. et 5500 pages sur microfiches normalisées, Genève-Paris, Slatkine-Champion, 1985 (préface de H. Mitterand) (ISBN 2-05-100670-9).
+Le vocabulaire de Victor Hugo, vol.1, 484 p., vol.2, 637 p., vol.3, 556 p., + 27 microfiches normalisées contenant l’Index synoptique des œuvres de Hugo (6878 p.), Genève-Paris, Slatkine-Champion, 1988. (ISBN 2051010048) (ISBN 9782051010047).
+Comptes d’auteurs. Études statistiques de Rabelais à Gracq, textes édités par Damon Mayaffre, préface d’Henri Béhar, Paris, Champion, 2009, 396 p. (ISBN 274532019X) (ISBN 978-2745320193).
+Ce qui compte. Méthodes statistiques, textes édités par Céline Poudat, préface de Ludovic Lebart, Paris, Champion, 2011, 376 p. (ISBN 2745322257) (ISBN 978-2745322258).
+Tous comptes faits. Questions linguistiques, textes édités par Bénédicte Pincemin, préface de François Rastier, Paris, Champion, 2016, 424 p. (ISBN 9782745335531).
